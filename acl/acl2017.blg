@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: acl2017.aux
+The style file: acl_natbib.bst
+Database file #1: acl2017.bib
+Warning--empty journal in riedel2013relation
+Warning--empty booktitle in weston2013connecting
+You've used 46 entries,
+            2936 wiz_defined-function locations,
+            807 strings with 13348 characters,
+and the built_in function-call counts, 35709 in all, are:
+= -- 2748
+> -- 1927
+< -- 31
++ -- 633
+- -- 582
+* -- 2497
+:= -- 5145
+add.period$ -- 205
+call.type$ -- 46
+change.case$ -- 480
+chr.to.int$ -- 43
+cite$ -- 48
+duplicate$ -- 2822
+empty$ -- 2653
+format.name$ -- 726
+if$ -- 7407
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 553
+newline$ -- 232
+num.names$ -- 184
+pop$ -- 1302
+preamble$ -- 1
+purify$ -- 377
+quote$ -- 0
+skip$ -- 1071
+stack$ -- 0
+substring$ -- 1390
+swap$ -- 1361
+text.length$ -- 26
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 411
+warning$ -- 2
+while$ -- 215
+width$ -- 0
+write$ -- 587
+(There were 2 warnings)

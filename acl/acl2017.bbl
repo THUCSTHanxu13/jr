@@ -1,0 +1,296 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Auer et~al.(2007)Auer, Bizer, Kobilarov, Lehmann, Cyganiak, and
+  Ives}]{auer2007dbpedia}
+S{\"o}ren Auer, Christian Bizer, Georgi Kobilarov, Jens Lehmann, Richard
+  Cyganiak, and Zachary Ives. 2007.
+\newblock {\em Dbpedia: A nucleus for a web of open data\/}.
+\newblock Springer.
+
+\bibitem[{Bahdanau et~al.(2014)Bahdanau, Cho, and Bengio}]{bahdanau2014neural}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2014.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em arXiv preprint arXiv:1409.0473\/} .
+
+\bibitem[{Bollacker et~al.(2008)Bollacker, Evans, Paritosh, Sturge, and
+  Taylor}]{bollacker2008freebase}
+Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, and Jamie Taylor.
+  2008.
+\newblock Freebase: a collaboratively created graph database for structuring
+  human knowledge.
+\newblock In {\em Proceedings of KDD\/}. pages 1247--1250.
+
+\bibitem[{Bordes et~al.(2012)Bordes, Glorot, Weston, and
+  Bengio}]{bordes2012joint}
+Antoine Bordes, Xavier Glorot, Jason Weston, and Yoshua Bengio. 2012.
+\newblock Joint learning of words and meaning representations for open-text
+  semantic parsing.
+\newblock In {\em AISTATS\/}. volume 351, pages 423--424.
+
+\bibitem[{Bordes et~al.(2013)Bordes, Usunier, Garcia-Duran, Weston, and
+  Yakhnenko}]{bordes2013translating}
+Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, and Oksana
+  Yakhnenko. 2013.
+\newblock Translating embeddings for modeling multi-relational data.
+\newblock In {\em Proceedings of NIPS\/}. pages 2787--2795.
+
+\bibitem[{Bordes et~al.(2011)Bordes, Weston, Collobert, Bengio
+  et~al.}]{bordes2011learning}
+Antoine Bordes, Jason Weston, Ronan Collobert, Yoshua Bengio, et~al. 2011.
+\newblock Learning structured embeddings of knowledge bases.
+\newblock In {\em Proceedings of AAAI\/}. pages 301--306.
+
+\bibitem[{Dhingra et~al.(2016)Dhingra, Liu, Cohen, and
+  Salakhutdinov}]{dhingra2016gated}
+Bhuwan Dhingra, Hanxiao Liu, William~W Cohen, and Ruslan Salakhutdinov. 2016.
+\newblock Gated-attention readers for text comprehension.
+\newblock {\em arXiv preprint arXiv:1606.01549\/} .
+
+\bibitem[{Dong et~al.(2014)Dong, Gabrilovich, Heitz, Horn, Lao, Murphy,
+  Strohmann, Sun, and Zhang}]{dong2014knowledge}
+Xin Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni~Lao, Kevin Murphy,
+  Thomas Strohmann, Shaohua Sun, and Wei Zhang. 2014.
+\newblock Knowledge vault: A web-scale approach to probabilistic knowledge
+  fusion.
+\newblock In {\em Proceedings of the 20th ACM SIGKDD international conference
+  on Knowledge discovery and data mining\/}. ACM, pages 601--610.
+
+\bibitem[{dos Santos et~al.(2015)dos Santos, Xiang, and
+  Zhou}]{dos2015classifying}
+C{\i}cero~Nogueira dos Santos, Bing Xiang, and Bowen Zhou. 2015.
+\newblock Classifying relations by ranking with convolutional neural networks.
+\newblock In {\em Proceedings of ACL-IJCNLP\/}. volume~1, pages 626--634.
+
+\bibitem[{Erhan et~al.(2010)Erhan, Bengio, Courville, Manzagol, Vincent, and
+  Bengio}]{erhan2010does}
+Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pierre-Antoine Manzagol, Pascal
+  Vincent, and Samy Bengio. 2010.
+\newblock Why does unsupervised pre-training help deep learning?
+\newblock {\em JMLR\/} 11:625--660.
+
+\bibitem[{He et~al.(2015)He, Liu, Ji, and Zhao}]{he2015learning}
+Shizhu He, Kang Liu, Guoliang Ji, and Jun Zhao. 2015.
+\newblock Learning to represent knowledge graphs with gaussian embedding.
+\newblock In {\em Proceedings of the 24th ACM International on Conference on
+  Information and Knowledge Management\/}. ACM, pages 623--632.
+
+\bibitem[{Hermann et~al.(2015)Hermann, Kocisky, Grefenstette, Espeholt, Kay,
+  Suleyman, and Blunsom}]{hermann2015teaching}
+Karl~Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will
+  Kay, Mustafa Suleyman, and Phil Blunsom. 2015.
+\newblock Teaching machines to read and comprehend.
+\newblock In {\em Advances in Neural Information Processing Systems\/}. pages
+  1693--1701.
+
+\bibitem[{Hoffmann et~al.(2011)Hoffmann, Zhang, Ling, Zettlemoyer, and
+  Weld}]{hoffmann2011knowledge}
+Raphael Hoffmann, Congle Zhang, Xiao Ling, Luke Zettlemoyer, and Daniel~S Weld.
+  2011.
+\newblock Knowledge-based weak supervision for information extraction of
+  overlapping relations.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies-Volume 1\/}.
+  Association for Computational Linguistics, pages 541--550.
+
+\bibitem[{Ji et~al.(2015)Ji, He, Xu, Liu, and Zhao}]{ji2015knowledge}
+Guoliang Ji, Shizhu He, Liheng Xu, Kang Liu, and Jun Zhao. 2015.
+\newblock Knowledge graph embedding via dynamic mapping matrix.
+\newblock In {\em Proceedings of ACL\/}. pages 687--696.
+
+\bibitem[{Ji et~al.(2016)Ji, Liu, He, and Zhao}]{ji2016knowledge}
+Guoliang Ji, Kang Liu, Shizhu He, and Jun Zhao. 2016.
+\newblock Knowledge graph completion with adaptive sparse transfer matrix.
+\newblock In {\em Proceedings of AAAI\/}.
+
+\bibitem[{Lao and Cohen(2010)}]{lao2010relational}
+Ni~Lao and William~W Cohen. 2010.
+\newblock Relational retrieval using a combination of path-constrained random
+  walks.
+\newblock {\em Machine learning\/} 81(1):53--67.
+
+\bibitem[{Lao et~al.(2011)Lao, Mitchell, and Cohen}]{lao2011random}
+Ni~Lao, Tom Mitchell, and William~W Cohen. 2011.
+\newblock Random walk inference and learning in a large scale knowledge base.
+\newblock In {\em Proceedings of EMNLP\/}. pages 529--539.
+
+\bibitem[{Lin et~al.(2015)Lin, Liu, Sun, Liu, and Zhu}]{lin2015learning}
+Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, and Xuan Zhu. 2015.
+\newblock Learning entity and relation embeddings for knowledge graph
+  completion.
+\newblock In {\em Proceedings of AAAI\/}.
+
+\bibitem[{Lin et~al.(2016)Lin, Shen, Liu, Luan, and Sun}]{lin2016neural}
+Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. 2016.
+\newblock Neural relation extraction with selective attention over instances.
+\newblock In {\em Proceedings of the 54th Annual Meeting of the Association for
+  Computational Linguistics\/}. volume~1, pages 2124--2133.
+
+\bibitem[{Mikolov et~al.(2013{\natexlab{a}})Mikolov, Chen, Corrado, and
+  Dean}]{mikolov2013efficient}
+Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. 2013{\natexlab{a}}.
+\newblock Efficient estimation of word representations in vector space.
+\newblock {\em Proceedings of ICLR\/} .
+
+\bibitem[{Mikolov et~al.(2013{\natexlab{b}})Mikolov, Sutskever, Chen, Corrado,
+  and Dean}]{mikolov2013distributed}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S Corrado, and Jeff Dean.
+  2013{\natexlab{b}}.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em Proceedings of NIPS\/}. pages 3111--3119.
+
+\bibitem[{Mikolov et~al.(2013{\natexlab{c}})Mikolov, Yih, and
+  Zweig}]{mikolov2013linguistic}
+Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig. 2013{\natexlab{c}}.
+\newblock Linguistic regularities in continuous space word representations.
+\newblock In {\em Proceedings of HLT-NAACL\/}. pages 746--751.
+
+\bibitem[{Miller(1995)}]{miller1995wordnet}
+George~A Miller. 1995.
+\newblock Wordnet: a lexical database for english.
+\newblock {\em Communications of the ACM\/} 38(11):39--41.
+
+\bibitem[{Min et~al.(2013)Min, Grishman, Wan, Wang, and
+  Gondek}]{min2013distant}
+Bonan Min, Ralph Grishman, Li~Wan, Chang Wang, and David Gondek. 2013.
+\newblock Distant supervision for relation extraction with an incomplete
+  knowledge base.
+\newblock In {\em HLT-NAACL\/}. pages 777--782.
+
+\bibitem[{Mintz et~al.(2009)Mintz, Bills, Snow, and
+  Jurafsky}]{mintz2009distant}
+Mike Mintz, Steven Bills, Rion Snow, and Dan Jurafsky. 2009.
+\newblock Distant supervision for relation extraction without labeled data.
+\newblock In {\em Proceedings of ACL-IJCNLP\/}. pages 1003--1011.
+
+\bibitem[{Miwa and Bansal(2016)}]{miwa2016end}
+Makoto Miwa and Mohit Bansal. 2016.
+\newblock End-to-end relation extraction using lstms on sequences and tree
+  structures.
+\newblock {\em arXiv preprint arXiv:1601.00770\/} .
+
+\bibitem[{Riedel et~al.(2010)Riedel, Yao, and McCallum}]{riedel2010modeling}
+Sebastian Riedel, Limin Yao, and Andrew McCallum. 2010.
+\newblock Modeling relations and their mentions without labeled text.
+\newblock In {\em Joint European Conference on Machine Learning and Knowledge
+  Discovery in Databases\/}. Springer, pages 148--163.
+
+\bibitem[{Riedel et~al.(2013)Riedel, Yao, McCallum, and
+  Marlin}]{riedel2013relation}
+Sebastian Riedel, Limin Yao, Andrew McCallum, and Benjamin~M Marlin. 2013.
+\newblock Relation extraction with matrix factorization and universal schemas .
+
+\bibitem[{Shimaoka et~al.(2016)Shimaoka, Stenetorp, Inui, and
+  Riedel}]{shimaoka2016attentive}
+Sonse Shimaoka, Pontus Stenetorp, Kentaro Inui, and Sebastian Riedel. 2016.
+\newblock An attentive neural architecture for fine-grained entity type
+  classification.
+\newblock {\em arXiv preprint arXiv:1604.05525\/} .
+
+\bibitem[{Sordoni et~al.(2016)Sordoni, Bachman, and
+  Bengio}]{sordoni2016iterative}
+Alessandro Sordoni, Phillip Bachman, and Yoshua Bengio. 2016.
+\newblock Iterative alternating neural attention for machine reading.
+\newblock {\em arXiv preprint arXiv:1606.02245\/} .
+
+\bibitem[{Suchanek et~al.(2007)Suchanek, Kasneci, and
+  Weikum}]{suchanek2007yago}
+Fabian~M Suchanek, Gjergji Kasneci, and Gerhard Weikum. 2007.
+\newblock Yago: a core of semantic knowledge.
+\newblock In {\em Proceedings of WWW\/}. ACM, pages 697--706.
+
+\bibitem[{Surdeanu et~al.(2012)Surdeanu, Tibshirani, Nallapati, and
+  Manning}]{surdeanu2012multi}
+Mihai Surdeanu, Julie Tibshirani, Ramesh Nallapati, and Christopher~D Manning.
+  2012.
+\newblock Multi-instance multi-label learning for relation extraction.
+\newblock In {\em Proceedings of the 2012 Joint Conference on Empirical Methods
+  in Natural Language Processing and Computational Natural Language
+  Learning\/}. Association for Computational Linguistics, pages 455--465.
+
+\bibitem[{Toutanova et~al.(2015)Toutanova, Chen, Pantel, Choudhury, and
+  Gamon}]{toutanova2015representing}
+Kristina Toutanova, Danqi Chen, Patrick Pantel, Pallavi Choudhury, and Michael
+  Gamon. 2015.
+\newblock Representing text for joint embedding of text and knowledge bases.
+\newblock In {\em Proceedings of EMNLP\/}.
+
+\bibitem[{Vrande{\v{c}}i{\'c} and Kr{\"o}tzsch(2014)}]{vrandevcic2014wikidata}
+Denny Vrande{\v{c}}i{\'c} and Markus Kr{\"o}tzsch. 2014.
+\newblock Wikidata: a free collaborative knowledgebase.
+\newblock {\em Communications of the ACM\/} 57(10):78--85.
+
+\bibitem[{Wang et~al.(2014{\natexlab{a}})Wang, Zhang, Feng, and
+  Chen}]{wang2014knowledge}
+Zhen Wang, Jianwen Zhang, Jianlin Feng, and Zheng Chen. 2014{\natexlab{a}}.
+\newblock Knowledge graph and text jointly embedding.
+\newblock In {\em Proceedings of EMNLP\/}. pages 1591--1601.
+
+\bibitem[{Wang et~al.(2014{\natexlab{b}})Wang, Zhang, Feng, and
+  Chen}]{wang2014transh}
+Zhen Wang, Jianwen Zhang, Jianlin Feng, and Zheng Chen. 2014{\natexlab{b}}.
+\newblock Knowledge graph embedding by translating on hyperplanes.
+\newblock In {\em Proceedings of AAAI\/}. pages 1112--1119.
+
+\bibitem[{Weston et~al.(2013)Weston, Bordes, Yakhnenko, and
+  Usunier}]{weston2013connecting}
+Jason Weston, Antoine Bordes, Oksana Yakhnenko, and Nicolas Usunier. 2013.
+\newblock Connecting language and knowledge bases with embedding models for
+  relation extraction.
+
+\bibitem[{Wu et~al.(2016)Wu, Xie, Liu, and Sun}]{wu2016knowledge}
+Jiawei Wu, Ruobing Xie, Zhiyuan Liu, and Maosong Sun. 2016.
+\newblock Knowledge representation via joint learning of sequential text and
+  knowledge graphs.
+\newblock {\em arXiv preprint arXiv:1609.07075\/} .
+
+\bibitem[{Xiao et~al.(2015)Xiao, Huang, Hao, and Zhu}]{xiao2015transg}
+Han Xiao, Minlie Huang, Yu~Hao, and Xiaoyan Zhu. 2015.
+\newblock Transg: A generative mixture model for knowledge graph embedding.
+\newblock {\em arXiv preprint arXiv:1509.05488\/} .
+
+\bibitem[{Xie et~al.(2016)Xie, Liu, Jia, Luan, and Sun}]{xie2016representation}
+Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, and Maosong Sun. 2016.
+\newblock Representation learning of knowledge graphs with entity descriptions.
+\newblock In {\em Thirtieth AAAI Conference on Artificial Intelligence\/}.
+
+\bibitem[{Xu et~al.(2015)Xu, Mou, Li, Chen, Peng, and Jin}]{xu2015classifying}
+Yan Xu, Lili Mou, Ge~Li, Yunchuan Chen, Hao Peng, and Zhi Jin. 2015.
+\newblock Classifying relations via long short term memory networks along
+  shortest dependency paths.
+\newblock In {\em Proceedings of EMNLP\/}.
+
+\bibitem[{Yang et~al.(2016)Yang, Yang, Dyer, He, Smola, and
+  Hovy}]{yang2016hierarchical}
+Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, and Eduard Hovy.
+  2016.
+\newblock Hierarchical attention networks for document classification.
+\newblock In {\em Proceedings of the 2016 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies\/}.
+
+\bibitem[{Zeng et~al.(2015)Zeng, Liu, Chen, and Zhao}]{zeng2015distant}
+Daojian Zeng, Kang Liu, Yubo Chen, and Jun Zhao. 2015.
+\newblock Distant supervision for relation extraction via piecewise
+  convolutional neural networks.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP), Lisbon, Portugal\/}. pages 17--21.
+
+\bibitem[{Zeng et~al.(2014)Zeng, Liu, Lai, Zhou, and Zhao}]{zeng2014relation}
+Daojian Zeng, Kang Liu, Siwei Lai, Guangyou Zhou, and Jun Zhao. 2014.
+\newblock Relation classification via convolutional deep neural network.
+\newblock In {\em Proceedings of COLING\/}. pages 2335--2344.
+
+\bibitem[{Zeng et~al.(2016)Zeng, Lin, Liu, and Sun}]{zeng2016incorporating}
+Wenyuan Zeng, Yankai Lin, Zhiyuan Liu, and Maosong Sun. 2016.
+\newblock Incorporating relation paths in neural relation extraction.
+\newblock {\em arXiv preprint arXiv:1609.07479\/} .
+
+\bibitem[{Zhang and Wang(2015)}]{zhang2015relation}
+Dongxu Zhang and Dong Wang. 2015.
+\newblock Relation classification via recurrent neural network.
+\newblock {\em arXiv preprint arXiv:1508.01006\/} .
+
+\end{thebibliography}
